@@ -25,9 +25,9 @@ This project allows you to perform predictions on images using a pre-trained mod
 ## Installation
 
  **Install dependencies:**
-    ```bash
+```bash
     pip install -r requirements.txt
-    ```
+```
 
 ## Usage
 
