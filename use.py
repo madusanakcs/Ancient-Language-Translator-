@@ -1,6 +1,6 @@
 from main_predictor import MainPredictor
 
-img_path = "2.jpeg"
+img_path = "1.jpeg"
 user_need = "char"  # "char", "era", or "both"
 
 predictor = MainPredictor(user_need=user_need)

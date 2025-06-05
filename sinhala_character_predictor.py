@@ -46,7 +46,7 @@ class SinhalaCharacterPredictor:
 
     def load_image(self, path):
         img = Image.open(path).convert('RGB')
-        img = ImageOps.expand(img, border=30, fill='white')
+        #img = ImageOps.expand(img, border=30, fill='white')
         img = img.resize((224, 224))
         return img
 
