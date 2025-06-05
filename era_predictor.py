@@ -14,7 +14,7 @@ class EraPredictor:
 
     def load_image(self, path):
         img = Image.open(path).convert('RGB')
-        img = ImageOps.expand(img, border=30, fill='white')  # padding
+        #img = ImageOps.expand(img, border=30, fill='white')  # padding
         img = img.resize((224, 224))  # resizing
         return img
 
