@@ -1,6 +1,0 @@
-# Ignore Python bytecode
-__pycache__/
-*.pyc
-
-# Ignore Jupyter Notebook files
-*.ipynb
