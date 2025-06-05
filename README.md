@@ -19,7 +19,7 @@ This project is a Sinhala character and era classification tool powered by machi
 ```bash
 git clone https://github.com/madusanakcs/Ancient-Language-Translator-.git
 cd Ancient-Language-Translator-
-
+```
 This project allows you to perform predictions on images using a pre-trained model.
 
 ## Installation
